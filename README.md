@@ -13,4 +13,4 @@ Agriculture is a major economic activity in Bukidnon, with crops such as rice, c
 
 In order to make this project worked the following technologies were used:
 
-* Laravel 
+* Laravel ![Laravel](./img/Laravel-logo.jpg)
