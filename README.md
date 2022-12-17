@@ -14,4 +14,5 @@ Agriculture is a major economic activity in Bukidnon, with crops such as rice, c
 In order to make this project worked the following technologies were used:
 
 * Laravel 
-![Laravel](./img/Laravel-logo-300x300.jpg)
+⋅⋅⋅![Laravel](./img/Laravel-logo-300x300.jpg)
+⋅⋅⋅ Laravel is a free, open-source PHP web framework used for web application development. It was created by Taylor Otwell and released in 2011. Laravel was used in this projects due to its built-in features and tools that make it easier in building web aplications, especially e-commerce sites.
