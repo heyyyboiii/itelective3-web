@@ -21,7 +21,12 @@ Laravel is a free, open-source PHP web framework used for web application develo
 
 * Breeze
 
-![Laravel](./img/breeze-logo-blue.png)
+![Laravel](./img/breeze-logo-blue.png)vue-js.png
 
-Breeze is a library that provides a set of APIs for building .NET applications with a focus on simplicity, performance, and scalability. It is designed to be lightweight, modular, and easy to use, with a focus on providing high-quality APIs for data access, caching, validation, and other common application tasks.
+Breeze is a library that provides a set of APIs for building .NET applications with a focus on simplicity, performance, and scalability. It is designed to be lightweight, modular, and easy to use, with a focus on providing high-quality APIs for data access, caching, validation, and other common application tasks. Breeze is utilized in this project  since it can be used to create an inventory management system.
 
+* Vue
+
+![Laravel](./img/vue-js.png)
+
+Vue.js is a JavaScript framework for building web applications. It is designed to be lightweight, easy to learn, and easy to integrate into a project. One of the key benefits of Vue.js is its reactive components, which allow developers to build dynamic, data-driven user interfaces that can update automatically when the underlying data changes. Vue is used in this project since it can make the website more engaging to the customer
