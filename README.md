@@ -18,3 +18,9 @@ In order to make this project worked the following technologies were used:
 ![Laravel](./img/Laravel-logo-300x300.jpg)
 
 Laravel is a free, open-source PHP web framework used for web application development. It was created by Taylor Otwell and released in 2011. Laravel was used in this projects due to its built-in features and tools that make it easier in building web aplications, especially e-commerce sites.
+
+* Breeze
+
+![Laravel](./img/Laravel-logo-300x300.jpg)
+
+Breeze is a library that provides a set of APIs for building .NET applications with a focus on simplicity, performance, and scalability. It is designed to be lightweight, modular, and easy to use, with a focus on providing high-quality APIs for data access, caching, validation, and other common application tasks.
