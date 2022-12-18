@@ -21,6 +21,6 @@ Laravel is a free, open-source PHP web framework used for web application develo
 
 * Breeze
 
-![Laravel](./img/Laravel-logo-300x300.jpg)
+![Laravel](./img/breeze-logo-blue.png)
 
 Breeze is a library that provides a set of APIs for building .NET applications with a focus on simplicity, performance, and scalability. It is designed to be lightweight, modular, and easy to use, with a focus on providing high-quality APIs for data access, caching, validation, and other common application tasks.
